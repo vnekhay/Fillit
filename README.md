@@ -7,5 +7,3 @@ the file and put them into the smallest possible square.
 ``` bash
 make && ./fillit `file with tetrimino`
 ```
-# inAction
-![](https://raw.githubusercontent.com/vnekhay/Filler/master/Fillit_gif.gif)
